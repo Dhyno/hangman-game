@@ -1,0 +1,10 @@
+c++
+c#
+cobol
+fortran
+visual basic
+mathlab
+python
+java
+javascript
+php
